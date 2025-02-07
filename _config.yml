@@ -21,7 +21,7 @@ repository               : "TheWayLost/thewaylost.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "play(1).png"
   name             : "Tianyu Hu"
   pronouns         : "he/him"  
   bio              : "燃烧殆尽，总好过黯然消逝."
@@ -34,10 +34,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=YKcp8vcAAAAJ"
 
   # Repositories and software development
-  github           : "https://github.com/TheWayLost"
+  github           : "TheWayLost"
 
   # Social media
-  bluesky          : "https://bsky.app/profile/thewaylost.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "thewaylost.bsky.social" # Replace this with you Bluesky username
   lesswrong        : # lesswrong
 
 
