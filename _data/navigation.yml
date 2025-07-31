@@ -1,11 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
-    url: /cv/
+    url: /files/tianyuhu_cv.pdf
+
+  - title: "Misc"
+    url: /misc/
+    
+  
 

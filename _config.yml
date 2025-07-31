@@ -24,7 +24,7 @@ author:
   avatar           : "play(1).jpg"
   name             : "Tianyu Hu"
   pronouns         : "he/him"  
-  bio              : "燃烧殆尽，总好过黯然消逝.\nhttps://github.com/TheWayLost"
+  bio              : "燃烧殆尽，总好过黯然消逝.\nIt's better to burn out than to fade away."
   location         : "Beijing, China"
   employer         : "Peking University"
   #uri              : # URL
@@ -37,7 +37,7 @@ author:
   github           : "TheWayLost"
 
   # Social media
-  bluesky          : "thewaylost.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "tianyuhu.bsky.social" # Replace this with you Bluesky username
   lesswrong        : # lesswrong
 
 
