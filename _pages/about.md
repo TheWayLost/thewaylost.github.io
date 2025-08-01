@@ -19,7 +19,7 @@ My research interests include:
 
 ## Recent News
 <ul>
-  <li><b>[05/2025]</b> I will be joining Dartmouth College as a research intern, advised by Prof. [Yaoqing Yang](https://yaoqingly.github.io/).</li>
+  <li><b>[05/2025]</b> I will be joining Dartmouth College as a research intern, advised by Prof. <a href="https://yaoqingly.github.io/" target="_blank" rel="noopener noreferrer">Yaoqing Yang</a>.</li>
   <li><b>[01/2025]</b> One paper was accepted to ICLR 2025.</li>
   <li><b>[05/2024]</b> I started a summer internship at GersteinLab, Yale University.</li>
 </ul>
