@@ -17,11 +17,13 @@ My research interests include:
 *   **AI Safety**: Especially for LLMs and autonomous agents.
 *   **Memory Systems**: Developing and analyzing memory systems in LLMs and agents.
 
+
 ## Recent News
 <ul>
   <li><b>[05/2025]</b> I will be joining Dartmouth College as a research intern, advised by Prof. <a href="https://yaoqingly.github.io/" target="_blank" rel="noopener noreferrer">Yaoqing Yang</a>.</li>
   <li><b>[01/2025]</b> One paper was accepted to ICLR 2025.</li>
   <li><b>[05/2024]</b> I started a summer internship at GersteinLab, Yale University.</li>
+  <li><b>[04/2024]</b> I completed an Algorithm Internship at the startup, <a href="https://www.liblib.art/" target="_blank" rel="noopener noreferrer">LiblibAI</a>. This experience clarified my passion for fundamental research and solidified my decision to pursue a PhD</li>
 </ul>
 
 ## Publications
