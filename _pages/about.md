@@ -13,8 +13,8 @@ I am a final-year undergraduate student ('26) in School of EECS, Peking Universi
 Currently, I am a Research Intern at Dartmouth College, advised by Prof. [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/).
 
 My research interests include:
-*   **Interpretability**: Understanding the mechanisms, dynamics, and generalization of Large Language Models (LLMs) and other machine learning models.
-*   **AI Safety**: Especially for LLMs and autonomous agents.
+*   **Interpretability**: Understanding the mechanisms, dynamics, and generalization of Large Language Models (LLMs) and other machine learning models. Furthermore, I am interested in the application of these interp insights.
+*   **Inference-time Control**: Especially for LLMs.
 *   **Agent Memory Systems**: Developing and analyzing memory systems in LLMs and agents.
 
 
