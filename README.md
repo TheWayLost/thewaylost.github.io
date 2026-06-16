@@ -29,6 +29,27 @@ When you are initially working your website, it is very useful to be able to pre
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
+## Writing Blog Posts
+
+New posts live in `_posts/` and must be named `YYYY-MM-DD-slug.md`. Start from `_drafts/template.md`, copy it into `_posts/`, then update the front matter:
+
+```yaml
+---
+title: "Post Title"
+date: 2026-06-17
+categories:
+  - notes
+tags:
+  - systems
+  - llm
+excerpt: "One-sentence summary for archives and the feed."
+math: true
+toc: true
+---
+```
+
+Use `math: true` only for posts that need MathJax. Use `toc: true` to show an auto-generated table of contents. Tags and categories are collected at `/tags/` and `/categories/`, and `jekyll-feed` continues to publish posts to `/feed.xml`.
+
 # Maintenance 
 
 Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
